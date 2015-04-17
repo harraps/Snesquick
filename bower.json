@@ -1,0 +1,19 @@
+{
+    "name": "snesquick",
+    "version": "0.0.1",
+    "main": "bower.json",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest",
+        "bootstrap": "latest",
+        "angular": "latest",
+        "flat-ui": "latest",
+        "font-awesome": "latest"
+    }
+}
