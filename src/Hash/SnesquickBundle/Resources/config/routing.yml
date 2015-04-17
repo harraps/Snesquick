@@ -1,0 +1,3 @@
+hash_snesquick_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: HashSnesquickBundle:Default:index }
